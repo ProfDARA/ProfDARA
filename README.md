@@ -14,12 +14,6 @@ With hands-on experience from plantations to national tech programs, I build sys
 Currently, I’m focused on **cloud deployment**, **data visualization**, and **infrastructure optimization** — from frontline support to backend automation.
 
 ---
-## 📊 GitHub Stats
-
-![Danang's GitHub stats](https://github-readme-stats.vercel.app/api?username=profdara&show_icons=true&theme=radical&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profdara&layout=compact&theme=radical)
-
----
 
 ## 🧪 Skills
 
