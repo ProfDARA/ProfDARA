@@ -38,8 +38,8 @@ Currently, I’m focused on **cloud deployment**, **data visualization**, and **
 
 ## 💼 Experience
 
-### ⭐ PT Semen Indonesia (Intern - Business Insight)
-- [Expected] Focused on dashboard development, performance monitoring, and data coordination across subsidiaries
+### ⭐ Program Facilitator – Google Cloud Arcade `2025
+- Mentored cohorts during a nationwide Google Cloud Arcade GCSB program (Dicoding & Google)
 
 ### ⭐ Program Facilitator – DBS Coding Camp `2024`
 - Mentored educators during a nationwide front-end coding camp (Dicoding & DBS Foundation)
