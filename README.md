@@ -38,6 +38,9 @@ Currently, I’m focused on **cloud deployment**, **data visualization**, and **
 
 ## 💼 Experience
 
+### 🧰 Tech Support – Freelance `2021 – Present`
+- Provided remote & onsite support, handled troubleshooting, system installs, and diagnostics
+
 ### ⭐ Program Facilitator – Google Cloud Arcade `2025
 - Mentored cohorts during a nationwide Google Cloud Arcade GCSB program (Dicoding & Google)
 
@@ -50,8 +53,9 @@ Currently, I’m focused on **cloud deployment**, **data visualization**, and **
 ### 🛠️ General Admin – PT. Laju Perdana Indah `2019 – 2021`
 - Built automated systems for machinery and logistics, reducing document wait time drastically
 
-### 🧰 Tech Support – Starline `2015 – 2018, 2021 – Present`
+### 🧰 Tech Support – Starline `2015 – 2018
 - Provided remote & onsite support, handled troubleshooting, system installs, and diagnostics
+
 
 ---
 
