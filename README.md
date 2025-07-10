@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👨‍💻 Danang Agung Restu Aji
 
-<!--
-**ProfDARA/ProfDARA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Information System Student | Cloud & IT Admin | Data Automation Enthusiast  
+> Passionate about transforming operational systems through automation, cloud infrastructure, and real-world tech application.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+Hi, I’m Danang!  
+A Computer Science & Information System student with a minor in Data Warehousing. I specialize in **IT administration**, **cloud computing**, and **automated workflows**.  
+With hands-on experience from plantations to national tech programs, I build systems that solve real problems and streamline administrative tasks.
+
+Currently, I’m focused on **cloud deployment**, **data visualization**, and **infrastructure optimization** — from frontline support to backend automation.
+
+---
+
+## 🧪 Skills
+
+- 💻 **Programming:** Node.js, JavaScript, Front-End & Back-End Web Development  
+- ☁️ **Cloud:** Google Cloud Platform (GCP), AWS  
+- 🛠️ **IT Support:** Hardware diagnostics, software troubleshooting  
+- 📊 **Data & Admin:** Excel (Advanced), SAP, Database Management, Scheduling Systems  
+- 🧱 **Other Tools:** Google Looker Studio, MS Office, Task Automation, System Benchmarking  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Information System**  
+*Universitas Terbuka* — `2021 - Present`  
+- Minor in Data Warehousing  
+- GPA: **3.85**  
+- Relevant courses: HCI, DBMS, Data Visualization, Data Mining, Server Administration  
+- Member of **UT Insider** support community
+
+---
+
+## 💼 Experience
+
+### ⭐ PT Semen Indonesia (Intern - Business Insight)
+- [Expected] Focused on dashboard development, performance monitoring, and data coordination across subsidiaries
+
+### ⭐ Program Facilitator – DBS Coding Camp `2024`
+- Mentored educators during a nationwide front-end coding camp (Dicoding & DBS Foundation)
+
+### ⭐ Team Leader – Capstone Project, Bangkit Academy `2024`
+- Led a GCP-based cloud computing project under a national program by Google, Tokopedia, Gojek, and Traveloka
+
+### 🛠️ General Admin – PT. Laju Perdana Indah `2019 – 2021`
+- Built automated systems for machinery and logistics, reducing document wait time drastically
+
+### 🧰 Tech Support – Starline `2015 – 2018, 2021 – Present`
+- Provided remote & onsite support, handled troubleshooting, system installs, and diagnostics
+
+---
+
+## 📜 Certifications
+
+- **Google IT Support Specialization** – Coursera  
+- **Cloud Engineer & Architecting on AWS** – Bangkit x Google  
+- **Machine Learning on GCP** – Bangkit x Google  
+- **Applied Data Science** – Dicoding  
+- **Facilitator Certificate** – DBS Foundation Coding Camp  
+- Full list available on request or [LinkedIn](https://www.linkedin.com/in/profdara/)
+
+---
+
+## 🚀 Projects
+
+- **SAR Mobile App** – Prototype app for disaster & rescue coordination  
+- **Automated Admin Toolkit** – Streamlined plantation reporting & scheduling system  
+- **Freelance Data Dashboards** – Custom insights for small businesses via Looker & Excel  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: danangrestuaji@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/profdara](https://www.linkedin.com/in/profdara/)  
+- 🧠 Motto: _“Simplicity, scalability, and sustainability — tech should work for humans, not the other way around.”_
+
+---
+
