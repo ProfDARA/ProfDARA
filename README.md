@@ -30,7 +30,7 @@ Currently, I’m focused on **cloud deployment**, **data visualization**, and **
 **Bachelor of Information System**  
 *Universitas Terbuka* — `2021 - Present`  
 - Minor in Data Warehousing  
-- TGPA: **3.85**  
+- TGPA: **TBA**
 - Relevant courses: HCI, DBMS, Data Visualization, Data Mining, Server Administration  
 - Member of **UT Insider** support community
 
