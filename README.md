@@ -38,8 +38,8 @@ Currently, I’m focused on **cloud deployment**, **data visualization**, and **
 
 ## 💼 Experience
 
-### 🧰 Tech Support – Freelance `2021 – Present`
-- Provided remote & onsite support, handled troubleshooting, system installs, and diagnostics
+### 🧰 AI adn Tech Solution Specialist – Freelance `2021 – Present`
+- Provided both onsite and remote IT and AI solutions, ensuring seamless operation of computer systems while also developing and deploying AI models, including NLP-based solutions
 
 ### ⭐ Program Facilitator – Google Cloud Arcade `2025`
 - Mentored cohorts during a nationwide Google Cloud Arcade GCSB program (Dicoding & Google)
