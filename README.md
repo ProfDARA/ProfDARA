@@ -8,7 +8,7 @@
 ## 📌 About Me
 
 Hi, I’m Danang!  
-A Computer Science & Information System student with a minor in Data Warehousing. I specialize in **IT administration**, **cloud computing**, and **automated workflows**.  
+A Computer Science & Information System student with a minor in Data Warehousing. I specialize in **IT administration**, **cloud computing**, **AI research and solutions** and **automated workflows**.  
 With hands-on experience from plantations to national tech programs, I build systems that solve real problems and streamline administrative tasks.
 
 Currently, I’m focused on **cloud deployment**, **data visualization**, and **infrastructure optimization** — from frontline support to backend automation.
@@ -17,7 +17,7 @@ Currently, I’m focused on **cloud deployment**, **data visualization**, and **
 
 ## 🧪 Skills
 
-- 💻 **Programming:** Node.js, JavaScript, Front-End & Back-End Web Development  
+- 💻 **Programming:** Python, Node.js, JavaScript, Front-End & Back-End Web Development  
 - ☁️ **Cloud:** Google Cloud Platform (GCP), AWS  
 - 🛠️ **IT Support:** Hardware diagnostics, software troubleshooting  
 - 📊 **Data & Admin:** Excel (Advanced), SAP, Database Management, Scheduling Systems  
@@ -38,7 +38,7 @@ Currently, I’m focused on **cloud deployment**, **data visualization**, and **
 
 ## 💼 Experience
 
-### 🧰 AI adn Tech Solution Specialist – Freelance `2021 – Present`
+### 🧰 AI and Tech Solution Specialist – Freelance `2021 – Present`
 - Provided both onsite and remote IT and AI solutions, ensuring seamless operation of computer systems while also developing and deploying AI models, including NLP-based solutions
 
 ### ⭐ Program Facilitator – Google Cloud Arcade `2025`
