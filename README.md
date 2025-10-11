@@ -38,6 +38,9 @@ Currently, I’m focused on **cloud deployment**, **data visualization**, and **
 
 ## 💼 Experience
 
+### 🧰 NLP Research Engineer – Direktorat PEnelitian dan Pelayanan Masyarakat (DPPM) Freelance `2025 – Present`
+- Design, Build and Implemented End to End NLP Indonesian Language Readability Program (scope of scientific papers)
+
 ### 🧰 AI and Tech Solution Specialist – Freelance `2021 – Present`
 - Provided both onsite and remote IT and AI solutions, ensuring seamless operation of computer systems while also developing and deploying AI models, including NLP-based solutions
 
