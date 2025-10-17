@@ -2,7 +2,7 @@
 
 > ---
 > AI & Cloud Engineer | Research Innovator | Automation Strategist
-“Turning complexity into adaptive intelligence — for systems, people, and nations.”
+“Turning complexity into adaptive intelligence for systems, people, and nations.”
 
 ---
 
@@ -59,33 +59,33 @@ Member of UT Insider tech community
 ---
 
 
-## 💼 Experience
+## Experience
 
-### 🧰 NLP Research Engineer – Direktorat Penelitian dan Pelayanan Masyarakat (DPPM) `2025 – Present`
+### NLP Research Engineer – Direktorat Penelitian dan Pelayanan Masyarakat (DPPM) `2025 – Present`
 - Design, Build and Implemented End to End NLP Indonesian Language Readability Program (scope of scientific papers)
 
-### 🧰 AI and Tech Solution Specialist – Freelance `2021 – Present`
+### AI and Tech Solution Specialist – Freelance `2021 – Present`
 - Provided both onsite and remote IT and AI solutions, ensuring seamless operation of computer systems while also developing and deploying AI models, including NLP-based solutions
 
-### ⭐ Program Facilitator – Google Cloud Arcade `2025`
+### Program Facilitator – Google Cloud Arcade `2025`
 - Mentored cohorts during a nationwide Google Cloud Arcade GCSB program (Dicoding & Google)
 
-### ⭐ Program Facilitator – DBS Coding Camp `2024`
+### Program Facilitator – DBS Coding Camp `2024`
 - Mentored educators during a nationwide front-end coding camp (Dicoding & DBS Foundation)
 
-### ⭐ Team Leader – Capstone Project, Bangkit Academy `2024`
+### Team Leader – Capstone Project, Bangkit Academy `2024`
 - Led a GCP-based cloud computing project under a national program by Google, Tokopedia, Gojek, and Traveloka
 
-### 🛠️ General Admin – PT. Laju Perdana Indah `2019 – 2021`
+### General Admin – PT. Laju Perdana Indah `2019 – 2021`
 - Built automated systems for machinery and logistics, reducing document wait time drastically
 
-### 🧰 Tech Support – Starline `2015 – 2018`
+### Tech Support – Starline `2015 – 2018`
 - Provided remote & onsite support, handled troubleshooting, system installs, and diagnostics
 
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Google IT Support Specialization** – Coursera  
 - **Cloud Engineer & Architecting on AWS** – Bangkit x Google  
@@ -96,7 +96,7 @@ Member of UT Insider tech community
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - **SAR Mobile App** – Prototype app for disaster & rescue coordination  
 - **Automated Admin Toolkit** – Streamlined plantation reporting & scheduling system  
@@ -104,11 +104,27 @@ Member of UT Insider tech community
 
 ---
 
-## 📫 Contact
+Vision
+
+> “I don’t just build systems , I build frameworks that help nations adapt faster to change.”
+
+
+
+Long-term focus:
+
+- AI for disaster management (SAR systems & adaptive mapping)
+
+- Intelligent economic modeling & decision-support AI
+
+- Building human-centered, scalable tech ecosystems
+
+---
+
+## Contact
 
 - 📧 Email: danangrestuaji@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/profdara](https://www.linkedin.com/in/profdara/)  
-- 🧠 Motto: _“Simplicity, scalability, and sustainability — tech should work for humans, not the other way around.”_
+-  Motto: _“Simplicity, scalability, and sustainability — tech should work for humans, not the other way around.”_
 
 ---
 
