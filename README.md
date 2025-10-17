@@ -1,40 +1,63 @@
-# 👨‍💻 Danang Agung Restu Aji
+# Danang Agung Restu Aji
 
-> Information System Student | Cloud & IT Admin | Data Automation Enthusiast  
-> Passionate about transforming operational systems through automation, cloud infrastructure, and real-world tech application.
-
----
-
-## 📌 About Me
-
-Hi, I’m Danang!  
-A Computer Science & Information System student with a minor in Data Warehousing. I specialize in **IT administration**, **cloud computing**, **AI research and solutions** and **automated workflows**.  
-With hands-on experience from plantations to national tech programs, I build systems that solve real problems and streamline administrative tasks.
-
-Currently, I’m focused on **cloud deployment**, **data visualization**, and **infrastructure optimization** — from frontline support to backend automation.
+> ---
+> AI & Cloud Engineer | Research Innovator | Automation Strategist
+“Turning complexity into adaptive intelligence — for systems, people, and nations.”
 
 ---
 
-## 🧪 Skills
+## About Me
 
-- 💻 **Programming:** Python, Node.js, JavaScript, Front-End & Back-End Web Development  
-- ☁️ **Cloud:** Google Cloud Platform (GCP), AWS  
-- 🛠️ **IT Support:** Hardware diagnostics, software troubleshooting  
-- 📊 **Data & Admin:** Excel (Advanced), SAP, Database Management, Scheduling Systems  
-- 🧱 **Other Tools:** Google Looker Studio, MS Office, Task Automation, System Benchmarking  
+Hi! I’m Danang, an Information System graduate specializing in Cloud Computing, Data Automation, and AI Framework Development.
+I build systems that think, adapt, and scale, bridging the gap between operational reality and intelligent automation.
+
+With experience ranging from plantation industries to national tech programs, I’ve learned to translate field inefficiencies into technological breakthroughs — from cloud-based automation to AI-driven analytics.
+
+Currently focusing on:
+
+- Cloud-native deployment (GCP / AWS)
+
+- Machine Learning & NLP research
+
+- AI system integration for disaster & economic resilience
+
 
 ---
 
-## 🎓 Education
+## Technical Expertise
+
+- Programming	: Python, Node.js, JavaScript, Flask, Streamlit
+Machine Learning	NLP, Sentiment Analysis, Siamese Networks, Computer Vision
+
+- Cloud Computing : Google Cloud Platform (App Engine, Cloud Run, BigQuery), AWS EC2
+
+- Data Engineering : ETL, SQL, Pandas, Data Visualization, Looker Studio
+
+- Automation & IT Ops :	Task Scheduling, System Optimization,
+
+- Hardware/Network Support: Hardware diagnostics, software troubleshooting  
+
+- Data & Admin: Excel (Advanced), SAP, Database Management, Scheduling Systems  
+
+- Other Tools: MS Office, Task Automation, System Benchmarking  
+
+---
+
+## Education
 
 **Bachelor of Information System**  
-*Universitas Terbuka* — `2021 - Present`  
-- Minor in Data Warehousing  
-- TGPA: **TBA**
-- Relevant courses: HCI, DBMS, Data Visualization, Data Mining, Server Administration  
-- Member of **UT Insider** support community
+Universitas Terbuka (UT) 2021 – 2025
+
+Minor in Data Warehousing
+
+TGPA: 3.88 / 4.00
+
+Relevant Coursework: DBMS, Server Administration, Data Mining, Cloud Infrastructure
+
+Member of UT Insider tech community
 
 ---
+
 
 ## 💼 Experience
 
