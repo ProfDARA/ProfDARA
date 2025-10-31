@@ -50,7 +50,7 @@ Universitas Terbuka (UT) 2021 – 2025
 
 Minor in Data Warehousing
 
-TGPA: 3.08 / 4.00
+TGPA: 3.88 / 4.00
 
 Relevant Coursework: DBMS, Server Administration, Data Mining, Cloud Infrastructure
 
