@@ -11,7 +11,7 @@
 Hi! I’m Danang, an Information System graduate specializing in Cloud Computing, Data Automation, and AI Framework Development.
 I build systems that think, adapt, and scale, bridging the gap between operational reality and intelligent automation.
 
-With experience ranging from plantation industries to national tech programs, I’ve learned to translate field inefficiencies into technological breakthroughs — from cloud-based automation to AI-driven analytics.
+With experience ranging from plantation industries to national tech programs, I’ve learned to translate field inefficiencies into technological breakthroughs from cloud-based automation to AI-driven analytics.
 
 Currently focusing on:
 
