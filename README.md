@@ -46,7 +46,7 @@ Machine Learning	NLP, Sentiment Analysis, Siamese Networks, Computer Vision
 ## Education
 
 **Bachelor of Information System**  
-Universitas Terbuka (UT) 2021 – 2025
+Universitas Terbuka (UT) 2021 – 2026
 
 Minor in Data Warehousing
 
@@ -63,6 +63,9 @@ Member of UT Insider tech community
 
 ### NLP Research Engineer – Direktorat Penelitian dan Pelayanan Masyarakat (DPPM) `2025 – Present`
 - Design, Build and Implemented End to End NLP Indonesian Language Readability Program (scope of scientific papers)
+
+### External Academy Code Reviewer - Dicoding `2025 – Present`
+- Reviewing student submissions across Front End, Back End, Cloud Computing and Data Science learning path, providing constructive feedback to enhance learners’ understanding.
 
 ### AI and Tech Solution Specialist – Freelance `2021 – Present`
 - Provided both onsite and remote IT and AI solutions, ensuring seamless operation of computer systems while also developing and deploying AI models, including NLP-based solutions
