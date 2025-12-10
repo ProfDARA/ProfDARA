@@ -14,6 +14,7 @@ I build systems that think, adapt, and scale, bridging the gap between operation
 With experience ranging from plantation industries to national tech programs, I’ve learned to translate field inefficiencies into technological breakthroughs from cloud-based automation to AI-driven analytics.
 
 Currently focusing on:
+- Building a scalable Auidit Automation program
 
 - Cloud-native deployment (GCP / AWS)
 
