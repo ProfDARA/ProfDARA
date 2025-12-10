@@ -94,7 +94,7 @@ Member of UT Insider tech community
 - **Cloud Engineer & Architecting on AWS** – Bangkit x Google  
 - **Machine Learning on GCP** – Bangkit x Google  
 - **Applied Data Science** – Dicoding  
-- **Facilitator Certificate** – DBS Foundation Coding Camp  
+- **Facilitator Certificate** – DBS Foundation Coding Camp, Google Cloud Arcade Program 
 - Full list available on request or [LinkedIn](https://www.linkedin.com/in/profdara/)
 
 ---
@@ -127,7 +127,7 @@ Long-term focus:
 
 - 📧 Email: danangrestuaji@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/profdara](https://www.linkedin.com/in/profdara/)  
--  Motto: _“Simplicity, scalability, and sustainability — tech should work for humans, not the other way around.”_
+-  Motto: _“Simplicity, scalability, and sustainability, tech should work for humans, not the other way around.”_
 
 ---
 
