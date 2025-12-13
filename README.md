@@ -134,3 +134,12 @@ Long-term focus:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfDARA&repo=REPO)
 
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfDARA&show_icons=true)
+
+---
+
+![Python](https://img.shields.io/badge/Python-ML-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red)
+![Transformers](https://img.shields.io/badge/HuggingFace-NLP-yellow)
