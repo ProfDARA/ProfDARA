@@ -132,3 +132,5 @@ Long-term focus:
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfDARA&repo=REPO)
+
