@@ -137,10 +137,6 @@ Long-term focus:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfDARA&show_icons=true)
-
----
-
 ![Python](https://img.shields.io/badge/Python-ML-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red)
 ![Transformers](https://img.shields.io/badge/HuggingFace-NLP-yellow)
