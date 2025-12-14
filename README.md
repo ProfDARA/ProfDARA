@@ -1,8 +1,8 @@
 # Danang Agung Restu Aji
 
 > ---
-AI & Cloud Engineer | Research Innovator | Automation Strategist
-“Turning complexity into adaptive intelligence for systems, people, and nations.”
+Cloud Engineer | NLP Research Engineer | Code Reviewer | | Automation Strategist
+“Mastering Tech, cloud, and AI that are not only scalable, but also strategic for the future of Indonesia”
 
 ---
 
