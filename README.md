@@ -2,6 +2,7 @@
 
 > ---
 Cloud Engineer | NLP Research Engineer | Code Reviewer | | Automation Strategist
+
 “Mastering Tech, cloud, and AI that are not only scalable, but also strategic for the future of Indonesia”
 
 ---
